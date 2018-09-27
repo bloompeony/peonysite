@@ -1663,6 +1663,13 @@ pre .javascript .function {
 .fancybox-close:hover {
   border: none;
 }
+.post-copyright {
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #ff1700;
+  background-color: #f9f9f9;
+  list-style: none;
+}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -1852,7 +1859,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c6ff40;
+  background: #2e7abb;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1899,11 +1906,11 @@ pre .javascript .function {
   margin-left: 10px;
 }
 .sidebar-nav .sidebar-nav-active {
-  color: #87daff;
-  border-bottom-color: #87daff;
+  color: #fff;
+  border-bottom-color: #fff;
 }
 .sidebar-nav .sidebar-nav-active:hover {
-  color: #87daff;
+  color: #fff;
 }
 .sidebar-panel {
   display: none;
@@ -1962,14 +1969,14 @@ pre .javascript .function {
   display: block;
 }
 .post-toc .nav .active > a {
-  color: #87daff;
-  border-bottom-color: #87daff;
+  color: #fff;
+  border-bottom-color: #fff;
 }
 .post-toc .nav .active-current > a {
-  color: #87daff;
+  color: #fff;
 }
 .post-toc .nav .active-current > a:hover {
-  color: #87daff;
+  color: #fff;
 }
 .footer {
   font-size: 14px;
@@ -2133,7 +2140,6 @@ pre .javascript .function {
   height: 100%;
   top: 0;
   left: 0;
-  z-index: 2080;
   background-color: rgba(0,0,0,0.3);
 }
 .local-search-popup {
@@ -2149,6 +2155,8 @@ pre .javascript .function {
   color: #333;
   z-index: 9999;
   border-radius: 5px;
+  -webkit-box-shadow: 0 0 14px rgba(160,160,160,0.5);
+  -moz-box-shadow: 0 0 14px rgba(160,160,160,0.5);
 }
 @media (max-width: 767px) {
   .local-search-popup {
@@ -2466,7 +2474,7 @@ pre .javascript .function {
   }
 }
 .page-post-detail .sidebar-toggle-line {
-  background: #87daff;
+  background: #fff;
 }
 .page-post-detail .comments {
   overflow: hidden;
@@ -2677,7 +2685,7 @@ hr {
   display: none;
 }
 .posts-expand .post {
-  margin-top: 120px;
+  margin-top: 60px;
 }
 .posts-expand .post:first-child {
   margin-top: 0;
@@ -2814,4 +2822,43 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.description_change {
+  margin: 0;
+}
+.qr_code_div {
+  margin: 10px 0 20px 0;
+}
+.post_home {
+  background-color: rgba(255,255,255,0.8);
+  padding: 10px 20px;
+  -webkit-box-shadow: 0 0 14px rgba(160,160,160,0.5);
+  -moz-box-shadow: 0 0 14px rgba(160,160,160,0.5);
+}
+body {
+  background: url("/peonysite/images/siteback.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  padding-top: 60px;
+}
+.header {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  z-index: 1020;
+}
+.menu {
+  text-align: right;
+}
+.music_iframe {
+  margin-top: 20px;
+}
+.post_content {
+  margin: 0 30px;
+}
+.pagination {
+  text-align: center;
 }
