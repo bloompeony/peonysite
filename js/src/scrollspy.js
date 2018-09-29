@@ -84,7 +84,7 @@
   };
 
   ScrollSpy.prototype.process = function() {
-    var scrollTop    = this.$scrollElement.scrollTop() + this.options.offset;
+    var scrollTop    = this.$scrollElement.scrollTop() + this.options.offset + 100;
     var scrollHeight = this.getScrollHeight();
     var maxScroll    = this.options.offset + scrollHeight - this.$scrollElement.height();
     var offsets      = this.offsets;

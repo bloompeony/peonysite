@@ -84,7 +84,7 @@
     root: '/peonysite/',
     scheme: 'Mist',
     version: '6.4.1',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"hide","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
@@ -686,8 +686,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -854,6 +863,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-乐理基础"><span class="nav-text">1. 乐理基础</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-1-乐理常识"><span class="nav-text">1.1 乐理常识</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-1-原位和弦与转位和弦"><span class="nav-text">1.1.1 原位和弦与转位和弦</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-2-简单区分大小调"><span class="nav-text">1.1.2 简单区分大小调</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-钢琴练习"><span class="nav-text">2. 钢琴练习</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#2-1-指法"><span class="nav-text">2.1 指法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-2-弹奏练习"><span class="nav-text">2.2 弹奏练习</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-2-1-小星星"><span class="nav-text">2.2.1 小星星</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-2-2-神秘园之歌"><span class="nav-text">2.2.2 神秘园之歌</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-年末活动"><span class="nav-text">3.年末活动</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#琴行"><span class="nav-text">琴行</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#老师"><span class="nav-text">老师</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#学员"><span class="nav-text">学员</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#游戏"><span class="nav-text">游戏</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       

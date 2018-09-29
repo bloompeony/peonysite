@@ -84,7 +84,7 @@
     root: '/peonysite/',
     scheme: 'Mist',
     version: '6.4.1',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"hide","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
@@ -686,8 +686,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -854,6 +863,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#夏兰-amp-兰花"><span class="nav-text">夏兰&amp;兰花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#君子兰-amp-兰花"><span class="nav-text">君子兰&amp;兰花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三角梅-amp-花"><span class="nav-text">三角梅&amp;花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#四季海棠-amp-花"><span class="nav-text">四季海棠&amp;花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#野三七-牵藤"><span class="nav-text">野三七~牵藤</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#金边吊兰"><span class="nav-text">金边吊兰</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#仙人掌-amp-花"><span class="nav-text">仙人掌&amp;花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#文竹"><span class="nav-text">文竹</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#玉树"><span class="nav-text">玉树</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#长寿花"><span class="nav-text">长寿花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#金银花"><span class="nav-text">金银花</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#珊瑚樱"><span class="nav-text">珊瑚樱</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
