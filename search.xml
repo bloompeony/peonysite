@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[记单词｜Word List 17]]></title>
+    <url>%2Fpeonysite%2F20181003120646%2F</url>
+    <content type="text"><![CDATA[Memorizing words有道背单词词单：《Word List 17》 Favorite example When he opened his eyes, the room was reeling. 译：他睁开眼时，房间似乎在不停的旋转。 At the roundabout, take the second exit. 译：到环岛后，走第二个出口。 Justice has prevailed over evil. 译：正义已经战胜邪恶。 It has been raining for two solid hours. 译：已经下了整整两个小时的雨了。 Winter is the slack season for most hotels. 译：冬季是大多数旅馆的淡季。 The company’s prospects look pretty bleak. 译：这家公司的前景异常暗淡。 He committed suicide durning a fit of depression. 译：他一时想不开，自杀了。 He suffers from acute depression. 译：他患有严重的抑郁症。 The modern ethic seems to be to get as much money as you can. 译：现代的道德观似乎是（尽量捞钱）。 I have a clear/guilty conscience about it. 译：对此我问心无/有愧。 Ask for a refund if the goods are faulty. 译：商品如有缺陷，可要求退款。 His concentration lapsed after a few minutes. 译：几分钟后他的注意力就下降了。 She just drifts aimlessly from job to job. 译：她漫无目的的不断更换工作。 All that glitters is not gold. 译：并非所有发光的都是金子。]]></content>
+      <categories>
+        <category>学海无涯</category>
+        <category>MBA备考</category>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>MBA</tag>
+        <tag>英语</tag>
+        <tag>老蒋英语二</tag>
+        <tag>老蒋讲词汇</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[数 [shù]]]></title>
     <url>%2Fpeonysite%2F20181002215237%2F</url>
     <content type="text"><![CDATA[数的定义 自然数：包括所有正整数和零。(0, 1, 2, ···) 实数(R)：包括有理数和无理数。 有理数：包括整数和分数。 整数(Z)：包括正整数、负整数和零。(···, -2, -1, 0, 1, 2, ···) 分数：包括有限小数和无限循环小数。 无理数：即无限不循环小数。 分数：将单位“1”平均分成若干份，表示这样的一份或几份的数。用分子、分母及分数线来表示。($\frac{a}{b}$) 真分数：分子比分母小的分数。(＜1) 假分数：分子比分母大的分组。(≥1) 小数：分母是10、100、1000……的分数，可以用小数来表示。由整数部分、小数部分及小数点来表示。(0.125) 有限小数 无限小数 无限循环小数一个小数的小数部分从某一位起，有一个或几个数字依次不断重复出现的。重复的部分叫做“循环节”，标记时循环点打在循环节的首位和末位。($12.4$$\stackrel{.}{2}\stackrel{.}{5}$) 纯循环小数循环节从小数部分第一位开始。 混循环小数循环节不是从小数部分第一位开始。 无限不循环小数 百分数：表示一个数是另一个数的百分之几的数。又叫做百分率或百分比，用“%”来表示。(92%) 数的整除若整数a除以非零整数b，商为整数，且余数为零，就说b整除a或a能被b整除，记作b|a。 偶数/奇数 偶数：能被2整除的整数。(2n) 0是偶数 奇数：不能被2整除的整数。(2n+1) 倍数/约数当b|a时，称a是b的倍数，b是a的约数。 最大公约数：整数a,b所有公约数中最大的那个数，记作(a,b)。 最小公倍数：整数a,b所有公倍数中最小的那个数，记作[a,b]。 互质数：公约数只有1的两个数，即(a,b)=1，则a、b为互质数。 质数/合数 质数（素数）：一个大于1的整数，它的正约数只有1和它本身。最小的质数是2 合数（复合数）：一个大于1的整数，除了1和它本身外还有其他正约数。最小的合数是4 基本运算实数 a. 任意两个实数的和、差、积、商（除数不为0）仍是实数。实数的四则运算具有封闭性 b. 任意实数a，用[a]表示不超过a的最大整数；{a}=a-[a]，{a}为a的小数部分。 无理数 任意两个无理数的和、差、积、商（除数不为0）不一定是无理数。 有理数 a. 任意两个有理数的和、差、积、商（除数不为0）仍为有理数。 b. 有理数与无理数的混合运算中，和、差一定是无理数，积、商（除数不为0）不确定。 分数 基本性质：分子和分母同时乘以或除以相同的数（0除外），分数的大小不变。 通分把几个异分母分数化成与原来分数相等的同分母的分数的过程，叫做通分。利用通分可以解决分数大小比较和分数加减计算问题。 约分把一个分数的分子、分母同时除以公因数，分数的值不变，这个过程叫约分。利用约分可以化简分数，当直接约分有困难时，可以将分子分母分解质因数后约分。 小数 基本性质： a. 小数末尾添上0或去掉0，小数的大小不变。 b. 把小数点向右（或向左）移动n位，则小数的值将会扩大（或缩小）基底的n次方倍。（如对十进制来说就是$10^n$） 整数奇偶分析 加减 同为偶，异为奇 奇数±奇数=偶数；奇数±偶数=奇数 偶数±偶数=偶数；偶数±奇数=奇数 奇数个奇数相±为奇数；奇数个偶数相±为偶数 偶数个奇数相±为偶数；偶数个偶数相±为偶数 乘法 同化作用 奇数×奇数=奇数；奇数×偶数=偶数 偶数×偶数=偶数；偶数×奇数=偶数 任意个奇数相乘为奇数，任意个偶数相乘为偶数 其他 若$x$, $y$为整数，则$x+y$与$x-y$的奇偶性一致。 若$x$, $y$, $\sqrt{x \pm y}$为整数，则$x \pm y$与$\sqrt{x \pm y}$的奇偶性一致。 质数 a. 任意一个整数与一个质数要么互质，要么是它的倍数。 b. 若质数P整除$a_1$···$a_n$，则P至少能整除$a_1$,$a_2$,$a_3$,···,$a_n$中的一个。]]></content>
